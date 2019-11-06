@@ -22,4 +22,4 @@ Working solo!
   
 
 **Interaction plan:** 
-By putting one's hand so that they hit all of the rings, 
+By putting one's hand so that they hit all of the rings, they can feel the different rings vibrating with the music. The LEDs help to visualize the music as well. 
