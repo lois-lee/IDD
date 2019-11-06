@@ -5,7 +5,7 @@
 Haptically and visually provide the amplitude and pitch of sounds.
 
 **Team:**
-Working solos!
+Working solo!
 
 **Rough form:**
 
