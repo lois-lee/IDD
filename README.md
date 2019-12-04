@@ -37,9 +37,13 @@ Superimposed frequencies = frequency.
 Can increase amplitude by tapping capacitive FSR sensor.
 
 **Video**
-[![alt text](7.png)](https://www.youtube.com/watch?v=JxmznbFnl_A)
+[![alt text](12.png)](https://www.youtube.com/watch?v=maI38cnIGFc)
 
 
+
+**Other figures!**
+![](11.png)
+![](7.png)
 ![](8.png)
 
 **Prototype ideas**
