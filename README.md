@@ -1,5 +1,6 @@
 **Lois Lee's Final Project**
 
+![](5.png)
 
 **Project Idea**
 Haptically and visually provide the amplitude and pitch of sounds. 
@@ -36,8 +37,10 @@ Superimposed frequencies = frequency.
 Can increase amplitude by tapping capacitive FSR sensor.
 
 **Video**
-[![alt text](cool.png)](https://www.youtube.com/watch?v=JxmznbFnl_A)
+[![alt text](7.png)](https://www.youtube.com/watch?v=JxmznbFnl_A)
 
+
+![](8.png)
 
 **Prototype ideas**
 
